@@ -6,33 +6,18 @@ __NOTOC__
 <center><big><big> Welcome to the [[:en:Kabiyé language|Kabiye]] Wikipedia. </big><br />
 
 [[Image:LocationTogo.svg|right|thumb|300px]]
-This series of pages is for a test-Wikipedia in the Kabiye language (Togo). 
-
-The request for the creation of the Kabiye Wikipedia has recently been approved and the content here will soon be moved to the actual Wikipedia. In the meantime, your Kabiye input here is still greatly appreciated.
-
-Because this is a test-Wikipedia all articles here must begin with the format <nowiki>[[Title of article]]</nowiki>.  For example, an article about Togo should be titled here as [[Togo]].  (Of course in the actual wikipedia, the article would be titled as <nowiki>[[Togo]]</nowiki>.
 
 ''Kabiye speakers are encouraged to create as many top-quality articles as possible''. 
 
 ----
 
-Cette série de pages existe afin de tester une version d'essai d'un Wikipédia en langue kabiyè (Togo). 
-La demande de création du [[:en:Kabiyé language|Kabiyé]] Wikipédia a récemment été approuvée et tout le contenu ici sera bientôt déplacé dans le vrai Wikipedia. En attendant, vos contributions ici dans la rédaction des articles en kabiyè sont toujours appréciées. 
-
-Comme il s'agit bien d'une version d'essai, tous les articles générés ici doivent commencer par le format <nowiki> [[Titre de l'article]] </nowiki>. Par exemple, un article sur le Togo devrait s'intituler [[Togo]]. (Bien sûr, dans le vrai Wikipedia, l'article sera intitulé <nowiki>[[Togo]]</nowiki>
-
 ''Tous ceux qui sont de langue maternelle kabiyè et qui savent écrire le kabiyè sont encouragés à créer autant de d'articles de haute qualité que possible''.
-
-
 
 <center>{{NUMBEROFARTICLES}} all articles<br />
 
 [[Special:PrefixIndex/Wp/kbp|All pages ]]<br />
 
 [[Special:PrefixIndex/Category:Wp/kbp|All categories]]<br />
-
-
-
 
 <inputbox>
  type=create
@@ -44,10 +29,7 @@ Comme il s'agit bien d'une version d'essai, tous les articles générés ici doi
 </inputbox>
 </div>
 
-
-
-
-===Wikipedia Sister===
+===Wikipedia Sister projects===
 
 
 {{#ifeq: {{SERVERNAME}} | secure.wikimedia.org
@@ -102,24 +84,5 @@ Comme il s'agit bien d'une version d'essai, tous les articles générés ici doi
   <td style="padding:4px;"> '''[http://meta.wikimedia.org/ Meta-Wiki]''' <br> Wikimedia project coordination </td>
   </tr></table>
 }}<noinclude>
-
-
-
-[[az:]]
-[[ba:]]
-[[crh:]]
-[[cv:]]
-[[et:]]
-[[fi:]]
-[[hu:]]
-[[kaa:]]
-[[krc:]]
-[[kk:]]
-[[sah:]]
-[[tk:]]
-[[tr:]]
-[[tt:]]
-[[ug:]]
-[[uz:]]
 
 [[Category:!Main category]]
