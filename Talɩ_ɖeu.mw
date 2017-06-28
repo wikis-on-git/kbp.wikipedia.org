@@ -3,21 +3,27 @@ __NOTOC__
 {| wikitable border="2" width="100%"
 |[[Image:Flag of Togo.svg|left|thumb|90px]]
 
+<center><big><big> Talɩ ɖeu [[:en:Kabiye language|Kabɩyɛ]] Wikipediya yɔɔ. </big><br />
+<center><big><big> Bienvenue au Wikipédia [[:en:Kabiye language|Kabiyè]]. </big><br />
 <center><big><big> Welcome to the [[:en:Kabiye language|Kabiye]] Wikipedia. </big><br />
 
 [[Image:LocationTogo.svg|right|thumb|300px]]
 
-''Kabiye speakers are encouraged to create as many top-quality articles as possible''. 
+''Petendiɣ mba pakɛ kabɩyɛ ñɩma nɛ pasɩma kabɩyɛ maʊ yɔ se papɩzɩɣ patasɩ maʊ kabɩyɛ tɔm cɔɖɩŋ ɖeʊ nɛ pɔsɔzɩ''.
 
 ----
 
 ''Tous ceux qui sont de langue maternelle kabiyè et qui savent écrire le kabiyè sont encouragés à créer autant de d'articles de haute qualité que possible''.
 
-<center>{{NUMBEROFARTICLES}} all articles<br />
+----
 
-[[Special:PrefixIndex/Wp/kbp|All pages ]]<br />
+''Kabiye speakers are encouraged to create as many top-quality articles as possible''.
 
-[[Special:PrefixIndex/Category:Wp/kbp|All categories]]<br />
+<center>{{NUMBEROFARTICLES}} Tɔm cɔɖɩŋ tɩŋa<br />
+
+[[Special:PrefixIndex/Wp/kbp|Takayɩhatʊ tɩŋa ]]<br />
+
+[[Special:PrefixIndex/Category:Wp/kbp|Pɩlɩŋ tɩŋa]]<br />
 
 <inputbox>
  type=create
@@ -29,7 +35,7 @@ __NOTOC__
 </inputbox>
 </div>
 
-===Wikipedia Sister projects===
+===Wikipediya labɩtʊ kɩsɔzɩtʊ === 
 
 
 {{#ifeq: {{SERVERNAME}} | secure.wikimedia.org
