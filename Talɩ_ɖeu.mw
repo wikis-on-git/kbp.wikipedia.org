@@ -1,1 +1,102 @@
-BlTCH BlTCH BlTCH
+__NOTOC__
+__NOTOC__
+{| wikitable border="2" width="100%"
+|[[Image:Flag of Togo.svg|left|thumb|90px]]
+
+<center><big><big> Talɩ ɖeu [[:en:Kabiye language|Kabɩyɛ]] [[Wikipediya]] yɔɔ. </big><br />
+<center><big><big> Bienvenue au [[Wikipediya|Wikipédia]] [[:en:Kabiye language|Kabiyè]]. </big><br />
+<center><big><big> Welcome to the [[:en:Kabiye language|Kabiye]] [[Wikipediya|Wikipedia]]. </big><br />
+[[Image:LocationTogo.svg|right|thumb|300px]]
+
+
+
+----
+''Petendiɣ mba pasɩma [[Kabɩyɛ kʊnʊŋ|kabɩyɛ]] kalʊʊ nɛ maʊ yɔ se papɩzɩɣ patasɩ maʊ kabɩyɛ tɔm cɔɖɩŋ ɖeʊ nɛ pɔsɔzɩ''.
+----
+''Tous ceux qui savent lire et écrire le [[Kabɩyɛ kʊnʊŋ|kabiyè]] sont encouragés à créer autant d'articles de haute qualité que possible et d'améliorer les articles existants''.
+----
+''Anyone who knows how to read and write [[Kabɩyɛ kʊnʊŋ|Kabiye]] is encouraged to create as many top-quality articles as possible and to improve the existing articles''.
+----
+
+
+
+<center>{{NUMBEROFARTICLES}} Tɔm cɔɖɩŋ tɩŋa<br />
+
+[[Special:PrefixIndex/Wp/kbp|Takayɩhatʊ tɩŋa ]]<br />
+
+[[Special:PrefixIndex/Category:Wp/kbp|Pɩlɩŋ tɩŋa]]<br />
+
+<inputbox>
+ type=create
+ width=90
+ bgcolor=#ffffff
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
+</inputbox>
+</div>
+
+===Wikipediya labɩtʊ kɩsɔzɩtʊ === 
+
+
+{{#ifeq: {{SERVERNAME}} | secure.wikimedia.org
+| <!-- On the secure server, use secure links. To make the padlocks
+       visible, this table doesn't use the "plainlinks" class. -->
+  <table class="layout" style="width:100%; margin:auto; text-align:left; background:transparent;">
+  <tr>
+  <td style="text-align:center; padding:4px;"> [[File:Commons-logo-31px.png|31px|link=|Commons]] </td>
+  <td style="width:33%; padding:4px;"> '''[https://secure.wikimedia.org/wikipedia/commons/wiki/ Commons]''' <br> Free media repository </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikinews-logo-51px.png|51px|link=|Wikinews]] </td>
+  <td style="width:33%; padding:4px;"> '''[https://secure.wikimedia.org/wikinews/en/wiki/ Wikinews]''' <br> Free-content news </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wiktionary-logo-51px.png|51px|link=|Wiktionary]] </td>
+  <td style="width:33%; padding:4px;"> '''[https://secure.wikimedia.org/wiktionary/en/wiki/ Wiktionary]''' <br> Dictionary and thesaurus </td>
+  </tr><tr>
+  <td style="text-align:center; padding:4px;"> [[File:Wikiquote-logo-51px.png|51px|link=|Wikiquote]] </td>
+  <td style="padding:4px;"> '''[https://secure.wikimedia.org/wikiquote/en/wiki/ Wikiquote]''' <br> Collection of quotations </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikibooks-logo-35px.png|35px|link=|Wikibooks]] </td>
+  <td style="padding:4px;"> '''[https://secure.wikimedia.org/wikibooks/en/wiki/ Wikibooks]''' <br> Free textbooks and manuals </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikisource-logo-35px.png|35px|link=|Wikisource]] </td>
+  <td style="padding:4px;"> '''[https://secure.wikimedia.org/wikipedia/sources/wiki/ Wikisource]''' <br> Free-content library </td>
+  </tr><tr>
+  <td style="text-align:center; padding:4px;"> [[File:Wikispecies-logo-35px.png|35px|link=|Wikispecies]] </td>
+  <td style="padding:4px;"> '''[https://secure.wikimedia.org/wikipedia/species/wiki/ Wikispecies]''' <br> Directory of species </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikiversity-logo-41px.png|41px|link=|Wikiversity]] </td>
+  <td style="padding:4px;"> '''[https://secure.wikimedia.org/wikiversity/en/wiki/ Wikiversity]''' <br> Free learning materials and activities </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikimedia-logo-meta.png|35px|link=|Meta-Wiki]] </td>
+  <td style="padding:4px;"> '''[https://secure.wikimedia.org/wikipedia/meta/wiki/ Meta-Wiki]''' <br> Wikimedia project coordination </td>
+  </tr></table>
+
+| <!--Not on the secure server, use normal links-->
+  <table class="layout plainlinks" style="width:100%; margin:auto; text-align:left; background:transparent;">
+  <tr>
+  <td style="text-align:center; padding:4px;"> [[File:Commons-logo-31px.png|31px|link=commons:|Commons]] </td>
+  <td style="width:33%; padding:4px;"> '''[http://commons.wikimedia.org/ Commons]''' <br> Free media repository </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikinews-logo-51px.png|51px|link=n:|Wikinews]] </td>
+  <td style="width:33%; padding:4px;"> '''[http://en.wikinews.org/ Wikinews]''' <br> Free-content news </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wiktionary-logo.svg|51px|link=wikt:|Wiktionary]] </td>
+  <td style="width:33%; padding:4px;"> '''[http://en.wiktionary.org/ Wiktionary]''' <br> Tɔm kpou nɛ thesaurus </td>
+  </tr><tr>
+  <td style="text-align:center; padding:4px;"> [[File:Wikiquote-logo-51px.png|51px|link=q:|Wikiquote]] </td>
+  <td style="padding:4px;"> '''[http://en.wikiquote.org/ Wikiquote]''' <br> Collection of quotations </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikibooks-logo-35px.png|35px|link=b:|Wikibooks]] </td>
+  <td style="padding:4px;"> '''[http://en.wikibooks.org/ Wikibooks]''' <br> Free textbooks and manuals </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikisource-logo-35px.png|35px|link=s:|Wikisource]] </td>
+  <td style="padding:4px;"> '''[http://en.wikisource.org/ Wikisource]''' <br> Free-content library </td>
+  </tr><tr>
+  <td style="text-align:center; padding:4px;"> [[File:Wikispecies-logo-35px.png|35px|link=wikispecies:|Wikispecies]] </td>
+  <td style="padding:4px;"> '''[http://species.wikimedia.org/ Wikispecies]''' <br> Directory of species </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikiversity-logo-41px.png|41px|link=v:|Wikiversity]] </td>
+  <td style="padding:4px;"> '''[http://en.wikiversity.org/ Wikiversity]''' <br> Free learning materials and activities </td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikimedia-logo-meta.png|45px|link=m:|Meta-Wiki]] </td>
+  <td style="padding:4px;"> '''[http://meta.wikimedia.org/ Meta-Wiki]''' <br> Wikimedia project coordination </td>
+  </tr><tr>
+  <td style="text-align:center; padding:4px;"> [[File:Wikidata-logo.svg|51px|link=d:|Wikidata]] </td>
+  <td style="padding:4px;"> '''[[d:|Wikidata]]''' <br>Structured data</td>
+  <td style="text-align:center; padding:4px;"> [[File:Wikivoyage-logo.svg|35px|link=voy:|Wikivoyage]] </td>
+  <td style="padding:4px;"> '''[[voy:|Wikivoyage]]''' <br>Free travel guide</td>
+  <td style="text-align:center; padding:4px;"> [[File:MediaWiki-logo.svg|35px|link=mw:|MediWiki]] </td>
+  <td style="padding:4px;"> '''[[mw:|MediaWiki]]''' <br>Our software</td>
+  </tr></table>
+}}<noinclude>
+
+[[Category:!Main category]]
